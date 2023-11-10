@@ -3,6 +3,8 @@ items:
     link: /templates/
   - name: Components
     link: /components/
+  - name: Configuration
+    link: /configuration/  
   - name: News
     link: /news/
   - name: Cookie policy

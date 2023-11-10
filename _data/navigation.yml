@@ -1,14 +1,20 @@
 items:
-  - name: Components
-    link: /components/
-  - name: Templates
-    link: /templates/
+  - name: Services
+    link: /services/
     dropdown:
-      - name: Landing Page
-        link: /templates/landing-page/
-      - name: Content Page
-        link: /templates/content-page/
-  - name: Configuration
-    link: /configuration/
+      - name: Services 1
+        link: /services/1
+      - name: Services 2
+        link: /services/2
+      - name: Services 3
+        link: /services/3
+  - name: About
+    link: /about/
+  - name: Who we've helped
+    link: /who-weve-helped/
+  - name: FAQs
+    link: /faqs/
   - name: News
     link: /news/
+  - name: Contact
+    link: /contact/

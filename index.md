@@ -7,12 +7,12 @@ hero_cta_name: Example call to action
 hero_cta_link: /
 sections: home_sections
 popular_links:
-  - name: View the reusable components
-    link: /components/
-  - name: View the default templates
-    link: /templates/
-  - name: Read about configuration options
-    link: /configuration/
+  - name: Services
+    link: /services/
+  - name: Who we've worked with
+    link: /who-weve-worked-with/
+  - name: FAQs
+    link: /faqs/
 ---
 
 Welcome to the demo site for [LocalGovStatic](https://github.com/FutureNorthants/LocalGovStatic), a Jekyll site built with TailwindCSS.
