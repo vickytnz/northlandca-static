@@ -2,7 +2,7 @@ title: LocalGovStatic
 description: An example static site built with Tailwind CSS
 url: "https://dapper-douhua-7cddaa.netlify.app"
 baseurl: ""
-# logo_url: "/assets/images/path-to-logo.svg"
+logo_url: "/assets/images/brand/logo.svg"
 
 copyright_name: Copyright name
 copyright_link: "/templates/content-page/"

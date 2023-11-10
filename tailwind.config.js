@@ -12,10 +12,13 @@ module.exports = {
     extend: {
       colors: {
         action: {
-          200: "#E9EEF3'",
-          500: "#385889",
-          900: "#0E335B",
+          200: "#ECB365",
+          500: "#064663",
+          900: "#04293A",
         },
+        gray: {
+          200: '#cce0ea' //overriding grey with yellow #f4e0c5
+        }
       },
     },
   },

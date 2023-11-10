@@ -1,7 +1,10 @@
 ---
 layout: home
 title: Home
-hero_image: https://picsum.photos/id/110/1200/800
+hero_image: /assets/images/uploads/background.jpeg
+hero_text: Insert your landing page tagline here
+hero_cta_name: Example call to action
+hero_cta_link: /
 sections: home_sections
 popular_links:
   - name: View the reusable components
