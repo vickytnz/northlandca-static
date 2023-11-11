@@ -10,15 +10,16 @@ With our wide range of accounting experience and knowledge we're ready and able 
 
 Our experience includes (but is not limited to) accounting and advisory work for the following industries:
 
-Accommodation and Hospitality
-Agriculture
-Construction and Trades
-Manufacturing
-Media and Communications
-Professional Services
-Real Estate
-Retail
-Transportation
+- Accommodation and hospitality
+- Agriculture
+- Construction and trades
+- Manufacturing
+- Media and communications
+- Professional services
+- Real estate
+- Retail
+- Transportation
+
 With our online software solutions it’s now possible to keep an even closer eye on your finances. As changes happen and your business evolves we can provide timely advice and support.
 
 We are there for you on this journey
