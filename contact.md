@@ -27,16 +27,16 @@ or use the contact form:
         </div> -->
         <div class="row control-group">
           <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
-            <label for="email" class="block text-gray-700 text-sm font-bold mb-2 ">Email address</label>
-            <input type="email" name="_replyto" class="form-control shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" required
+            <label for="email" >Email address</label>
+            <input type="email" name="_replyto" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="email" required
               data-validation-required-message="Enter your email address.">
             <p class="help-block text-danger"></p>
           </div>
         </div>
         <div class="row control-group">
           <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
-            <label for="name" class="block text-gray-700 text-sm font-bold mb-2 ">Name</label>
-            <input type="text" name="name" class="form-control shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="name" required
+            <label for="name" class="block">Name</label>
+            <input type="text" name="name" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="name" required
               data-validation-required-message="Enter your name.">
             <p class="help-block text-danger"></p>
 
@@ -44,8 +44,8 @@ or use the contact form:
         </div>
         <div class="row control-group">
           <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
-            <label for="name" class="block text-gray-700 text-sm font-bold mb-2 ">Business name</label>
-            <input type="text" name="company" class="form-control shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="company" required
+            <label for="name" class="block">Business name</label>
+            <input type="text" name="company" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="company" required
               data-validation-required-message="Enter your business name.">
             <p class="help-block text-danger"></p>
           </div>
@@ -56,8 +56,8 @@ or use the contact form:
         </div>
         <div class="row control-group">
           <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
-            <label for="message" class="block text-gray-700 text-sm font-bold mb-2 ">Message</label>
-            <textarea rows="5" name="message" class="form-control shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="message" required
+            <label for="message" class="block">Message</label>
+            <textarea rows="5" name="message" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="message" required
               data-validation-required-message="Enter a message."></textarea>
             <p class="help-block text-danger"></p>
           </div>

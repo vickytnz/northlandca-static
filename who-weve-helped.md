@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Who we've helped
 
 related: templates_related
 ---

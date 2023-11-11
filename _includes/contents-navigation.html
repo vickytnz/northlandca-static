@@ -6,7 +6,7 @@
     {% assign prev = forloop.index0 | minus: 1 %}
     <a
       href="{{ page_contents[prev].link }}"
-      class="text-action-500 hover:text-action-900 hover:underline hover:decoration-dotted flex flex-nowrap hover:bg-gray-200 py-4 pl-4"
+      class="text-action-500 dark:text-gray-200 hover:text-action-900 dark:hover:text-white hover:underline hover:decoration-dotted flex flex-nowrap hover:bg-gray-200 py-4 pl-4"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -33,7 +33,7 @@
     {% assign next = forloop.index0 | plus: 1 %}
     <a
       href="{{ page_contents[next].link }}"
-      class="text-action-500 hover:text-action-900 hover:underline hover:decoration-dotted flex flex-nowrap hover:bg-gray-200 py-4 pl-2"
+      class="text-action-500 dark:text-gray-200 hover:underline hover:decoration-dotted flex flex-nowrap hover:bg-gray-200 py-4 pl-2"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
