@@ -9,9 +9,8 @@ We would love to meet you.
 
 Talking to a professional can be scary. We offer a free initial consultation to discuss your needs.  Book in today for a friendly chat.
 
-Email
+<p>Email <a href="javascript:location='mailto:\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a';void 0"><script type="text/javascript">document.write('\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a')</script></a> or use the contact form: </p>
 
-or use the contact form:
 
 
 

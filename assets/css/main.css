@@ -17,6 +17,9 @@ p, h1, h2, h3, h4, h5, h6 {
   @apply text-black dark:text-white;
 }
 
+#main-content ul {
+  @apply list-disc;
+}
 
 @layer base {
   h1 {

@@ -2,9 +2,23 @@
 layout: page
 title: About
 
-related: templates_related
 ---
 
-Details about the company and directors.
+Northland Chartered Accountants is a Whangarei based firm catering to businesses in the Northland area.
 
-![Example image](https://picsum.photos/id/229/800/700)
+With our wide range of accounting experience and knowledge we're ready and able to support you with all your business and accountings needs.
+
+Our experience includes (but is not limited to) accounting and advisory work for the following industries:
+
+Accommodation and Hospitality
+Agriculture
+Construction and Trades
+Manufacturing
+Media and Communications
+Professional Services
+Real Estate
+Retail
+Transportation
+With our online software solutions it’s now possible to keep an even closer eye on your finances. As changes happen and your business evolves we can provide timely advice and support.
+
+We are there for you on this journey

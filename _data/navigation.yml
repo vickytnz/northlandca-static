@@ -2,12 +2,12 @@ items:
   - name: Services
     link: /services/
     dropdown:
-      - name: Services 1
-        link: /services/1
-      - name: Services 2
-        link: /services/2
-      - name: Services 3
-        link: /services/3
+      - name: Tax preparation
+        link: /services/tax-preparation
+      - name: Xero training
+        link: /services/xero
+      - name: Business coaching
+        link: /services/business-coaching
   - name: About
     link: /about/
   - name: Who we've helped

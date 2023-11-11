@@ -1,16 +1,16 @@
 - title: Our services
   links:
-    - name: Service 1
-      link: /services/1
-      summary: Details
-      image: https://picsum.photos/400/300
+    - name: Tax preparation
+      link: /services/tax-preparation
+      summary: Let us help you
+      image: /assets/images/brand/tax-preparation.jpg
 
-    - name: Service 2
-      link: /services/2
-      summary: Details
-      image: https://picsum.photos/400/300
+    - name: Xero training
+      link: /services/xero
+      summary: Let us train you
+      image: /assets/images/brand/xero.jpg
 
-    - name: Service 2
-      link: /services/2
-      summary: Details
-      image: https://picsum.photos/400/300
+    - name: Business coaching
+      link: /services/business-coaching
+      summary: Let us support you
+      image: /assets/images/brand/business-advisory.jpg

@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
+title: Welcome to Northland Chartered Accountants
 hero_image: /assets/images/uploads/background.jpeg
-hero_text: Insert your landing page tagline here
-hero_cta_name: Example call to action
-hero_cta_link: /
+hero_text: Accountancy services by Northlanders, for Northlanders
+hero_cta_name: About us
+hero_cta_link: /about/
 sections: home_sections
 popular_links:
   - name: Services
@@ -14,7 +14,3 @@ popular_links:
   - name: FAQs
     link: /faqs/
 ---
-
-Welcome to the demo site for [LocalGovStatic](https://github.com/FutureNorthants/LocalGovStatic), a Jekyll site built with TailwindCSS.
-
-This page is an example home page with a hero image and some section links.

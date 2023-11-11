@@ -1,7 +1,14 @@
-title: LocalGovStatic
-description: An example static site built with Tailwind CSS
+# Site settings
+title: Northland Chartered Accountants
+email: office@northlandca.co.nz
+formspree: mqkodjny
 url: "https://dapper-douhua-7cddaa.netlify.app"
 baseurl: ""
+description: "Accredited Xero experience and chartered accountancy specialising in businesses in Northland, New Zealand"
+keywords: "accountancy, business advice, xero, northland, whangarei"
+skills: "Accountancy services by Northlanders, for Northlanders"
+meta_author: Northland Chartered Accountants
+tagline: "Accountancy and business advice"
 logo_url: "/assets/images/brand/logo.svg"
 
 copyright_name: Copyright name
@@ -12,8 +19,8 @@ copyright_link: "/templates/content-page/"
 #   title: An example alert
 #   message: This is an example of a site wide alert message with a [link](/components/site-wide-alert/).
 
-phase: ALPHA
-phase_link: https://github.com/FutureNorthants/LocalGovStatic/issues
+# phase: ALPHA
+# phase_link: https://github.com/FutureNorthants/LocalGovStatic/issues
 
 livereload: true
 
