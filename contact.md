@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 
-related: templates_related
 ---
 
 We would love to meet you.

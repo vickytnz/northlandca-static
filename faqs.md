@@ -2,7 +2,6 @@
 layout: page
 title: Frequently asked questions (FAQs)
 
-related: templates_related
 ---
 
 

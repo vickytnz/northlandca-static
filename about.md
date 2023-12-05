@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-
+director: true
 ---
 
 Northland Chartered Accountants is a Whangarei based firm catering to businesses in the Northland area.
