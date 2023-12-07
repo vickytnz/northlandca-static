@@ -11,12 +11,12 @@
       class="flex flex-col items-start justify-center justify-items-center h-full"
     >
       <div
-        class="bg-action-500/50 py-4 px-2 md:px-4 lg:px-8 rounded-md lg:max-w-[66%]"
-      >
+        class="py-4 px-2 md:px-4 lg:px-8 rounded-md lg:max-w-[66%]"
+      > <!--bg-action-500/50 -->
         <span
-          class="text-white block font-bold text-lg lg:text-4xl drop-shadow-md mb-4"
+          class="bg-action-900 inblock text-white font-bold text-3xl lg:text-5xl mb-4"
           >{{ page.hero_text }}</span
-        >
+        > <!-- drop-shadow-md  -->
         {% if page.hero_cta_name != '' and page.hero_cta_link != ''%}
         <div>
           {% include button.html name=page.hero_cta_name link=page.hero_cta_link

@@ -76,12 +76,12 @@
             >{{ item.name }}</a
           >
           {% if item.dropdown %}
-          <ul class="bg-gray-200 mb-2 md:mb-0 md:rounded-md md:drop-shadow-md">
+          <ul class="bg-gray-200 mb-2 md:mb-0  md:drop-shadow-md">
             {% for sub_item in item.dropdown %}
             <li>
               <a
                 href="{{ sub_item.link }}"
-                class="block text-action-500 underline p-4 hover:bg-gray-100 rounded-md hover:text-action-900 hover:decoration-dotted"
+                class="block text-action-500 underline p-4 hover:bg-gray-100  hover:text-action-900 hover:decoration-dotted"
                 >{{ sub_item.name }}</a
               >
             </li>

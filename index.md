@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Welcome to Northland Chartered Accountants
+title: Accountancy and business advice
+description: Welcome to Northland Chartered Accountants
 hero_image: /assets/images/uploads/background.jpeg
-hero_text: Accountancy services by Northlanders, for Northlanders
+hero_text: Welcome to Northland Chartered Accountants <!--<br>Accountancy services by Northlanders, for Northlanders -->
 hero_cta_name: About us
 hero_cta_link: /about/
 popular_links:
