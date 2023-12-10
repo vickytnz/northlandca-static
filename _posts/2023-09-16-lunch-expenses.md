@@ -3,8 +3,8 @@ layout: post
 title: Entertainment rules – know your lunches
 hero_image: /assets/images/uploads/lunch.jpg
 breadcrumbs:
-  - name: News
-    link: /news
+  - name: Blog
+    link: /blog
 ---
 
 As the end of the year starts to loom and the weather heats up it’s a perfect time to head outside for lunch – but can you claim it?

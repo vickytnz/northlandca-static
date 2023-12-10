@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Business coaching
+title: Grow your business
 hero_image: /assets/images/brand/business-advisory.jpg
 hero_text: Let us support you with business coaching
 hero_cta_name: ''
 related: services_related
+invert_text: true
 
 breadcrumbs:
   - name: Services

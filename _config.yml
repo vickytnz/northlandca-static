@@ -32,10 +32,16 @@ plugins:
 postcss:
   cache: false
 
-paginate_path: "/news/page:num/"
+paginate_path: "/blog/page:num/"
 paginate: 5
 
 permalink: pretty
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-D69JW2T64K"
+    anonymize_ip: false # default
 
 exclude:
   - LICENSE.txt

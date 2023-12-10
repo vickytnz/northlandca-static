@@ -6,6 +6,8 @@ hero_image: /assets/images/brand/xero.jpg
 hero_text: Let us train you with Xero
 hero_cta_name : ''
 related: services_related
+invert_text: true
+
 
 breadcrumbs:
   - name: Services

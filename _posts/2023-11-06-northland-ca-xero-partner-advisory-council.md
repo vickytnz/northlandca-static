@@ -3,8 +3,8 @@ layout: post
 title: Northland CA is part of the Xero partner advisory council
 hero_image: /assets/images/uploads/XPAC-blog-post.png
 breadcrumbs:
-  - name: News
-    link: /news
+  - name: Blog
+    link: /blog
 ---
 
 

@@ -6,15 +6,15 @@ items:
         link: /services/tax-preparation
       - name: Xero training
         link: /services/xero
-      - name: Business coaching
-        link: /services/business-coaching
+      - name: Grow your business
+        link: /services/grow-business
   - name: About
     link: /about/
   - name: Who we've helped
     link: /who-weve-helped/
   - name: FAQs
     link: /faqs/
-  - name: News
-    link: /news/
+  - name: Blog
+    link: /blog/
   - name: Contact
     link: /contact/

@@ -3,8 +3,8 @@ layout: post
 title: Claiming home expenses
 hero_image: /assets/images/uploads/home-office.jpg
 breadcrumbs:
-  - name: News
-    link: /news
+  - name: Blog
+    link: /blog
 ---
 
 
