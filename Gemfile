@@ -8,3 +8,4 @@ gem "jekyll-postcss-v2", "~> 1.0"
 gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-paginate", "~> 1.1"
 gem "html-proofer"
+gem 'jekyll-sitemap'
