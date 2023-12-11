@@ -41,7 +41,7 @@ permalink: pretty
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-D69JW2T64K"
+    tracking_id: "G-L4BKGCT77L"
     anonymize_ip: false # default
 
 exclude:
