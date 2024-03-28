@@ -8,7 +8,7 @@ We would love to meet you.
 
 Talking to a professional can be scary. We offer a free initial consultation to discuss your needs.  Book in today for a friendly chat.
 
-<p>Email <a href="javascript:location='mailto:\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a';void 0"><script type="text/javascript">document.write('\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a')</script></a> or use the contact form: </p>
+<p>Email <a  href="javascript:location='mailto:\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a';void 0"><script type="text/javascript">document.write('\u006f\u0066\u0066\u0069\u0063\u0065\u0040\u006e\u006f\u0072\u0074\u0068\u006c\u0061\u006e\u0064\u0063\u0061\u002e\u0063\u006f\u002e\u006e\u007a')</script></a> or use the contact form: </p>
 
 
 
@@ -42,12 +42,22 @@ Talking to a professional can be scary. We offer a free initial consultation to 
         </div>
         <div class="row control-group">
           <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
-            <label for="name" class="block">Business name</label>
+            <label for="company" class="block">Business name</label>
             <input type="text" name="company" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="company" required
               data-validation-required-message="Enter your business name.">
             <p class="help-block text-danger"></p>
           </div>
         </div>
+
+        <div class="row control-group">
+          <div class="form-group col-xs-12 controls"> <!-- floating-label-form-group -->
+            <label for="telephone" class="block">Phone number - we will only use this to contact you</label>
+            <input type="telephone" name="telephone" class="form-control shadow appearance-none border rounded w-full focus:shadow-outline" id="telephone" required
+              data-validation-required-message="Enter your phone number.">
+            <p class="help-block text-danger"></p> 
+          </div>
+        </div>
+
         <div>
           <input type="hidden" name="_subject" value="New submission!">
           <input type="text" name="_gotcha" style="display:none" />
