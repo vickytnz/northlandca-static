@@ -1,0 +1,16 @@
+- title: Our team
+  links:
+    - name: Mere Teinaki
+      link: /team/mere-teinaki
+      summary: Director
+      image: /assets/images/brand/mere-400x400.jpeg
+
+    - name: Person 1
+      link: /team/person-1
+      summary: Accountant
+      image: https://placedog.net/500
+
+    - name: Person 2
+      link: /team/person-2
+      summary: Accountant
+      image: https://placedog.net/500
