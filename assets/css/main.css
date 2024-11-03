@@ -36,14 +36,20 @@ p, h1, h2, h3, h4, h5, h6 {
   }
 
   a {
-    @apply dark:text-gray-200;
+    @apply dark:text-yellow-500;
   }
 
   a:focus {
-    @apply bg-yellow-500 text-black;
+    @apply bg-yellow-500 text-black dark:text-yellow-500 dark:text-yellow-50;
   }
   a:active {
-    @apply bg-yellow-500 text-black;
+    @apply bg-yellow-500 text-black dark:text-yellow-500 dark:text-yellow-50;
+  }
+  .secondary a:focus {
+    @apply bg-white text-black dark:bg-white dark:text-black;
+  }
+  .secondary a:active {
+    @apply bg-white text-black dark:bg-white dark:text-black;
   }
 }
 
@@ -75,4 +81,15 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .prose, .prose h2 {
   @apply dark:text-white;
+}
+
+.prose a {
+  @apply dark:text-yellow-500;
+}
+
+.prose a:focus {
+  @apply bg-yellow-500 text-black;
+}
+.prose  a:active {
+  @apply bg-yellow-500 text-black;
 }
