@@ -14,7 +14,10 @@ title: Frequently asked questions (FAQs)
 
 {% capture accordion_content %}
 
-Just call us on 09 392 2263 or email office@northlandca.co.nz . Once we’ve had a chat with you and discussed your needs we can then send you the necessary paperwork. When these are signed then: If you don’t have an accountant we can start helping you immediately. If you have an existing accountant we’ll contact them to arrange the change over. This usually takes a couple of weeks. Once done, we can start helping you.
+Just call us on 09 470 5252 or email office@northlandca.co.nz . Once we’ve had a chat with you and discussed your needs we can then send you the necessary paperwork. When these are signed then: 
+
+- If you don’t have an accountant we can start helping you immediately.
+- If you have an existing accountant we’ll contact them to arrange the change over. This usually takes a couple of weeks. Once done, we can start helping you.
 
 {% endcapture %}
 
@@ -24,8 +27,7 @@ Just call us on 09 392 2263 or email office@northlandca.co.nz . Once we’ve had
 
 {% capture accordion_content2 %}
 
-Northland Chartered Accountants are based out of Whangarei. Our primary goal is to provide quality local services to Northlanders in Whangārei, Dargaville and the surrounding regions.
-
+Northland Chartered Accountants has offices in Whangarei and Kerikeri. Our primary goal is to provide quality local services to Northlanders in Whangārei, Kerikeri and the surrounding areas.  
 
 {% endcapture %}
 
@@ -33,15 +35,16 @@ Northland Chartered Accountants are based out of Whangarei. Our primary goal is 
 
 {% capture accordion_content3 %}
 
-Absolutely. Although we are based in Whangarei we can provide taxation and accounting services to anyone in New Zealand or anyone with New Zealand reporting requirements. For business advisory and support we can assist anyone, anywhere.
+Absolutely. Although we are based in Whangarei and Kerikeri we can provide taxation and accounting services to anyone in New Zealand or anyone with New Zealand reporting requirements.  
 
+For business advisory and support we can assist anyone, anywhere. 
 {% endcapture %}
 
 {% include accordion.html title="I’m not in Northland, can Northland Chartered Accountants still be my accountant?" content=accordion_content3 %}
 
 {% capture accordion_content4 %}
 
-Of course. Northland Chartered Accountants is a Xero partner and 100% Xero certified. This means we can set up your Xero subscription and account, and provide both Xero training and ongoing support. This training is available online, but can be done face to face in the Whangarei area. Xero training covers everything you need to get up and running plus a few tips and tricks.
+Of course. Northland Chartered Accountants is a Xero partner and 100% Xero certified.  This means we can set up your Xero subscription and account, and provide both Xero training and ongoing support. This training is available online, but can be done face to face in the Whangarei of Kerikeri areas. Xero training covers everything you need to get up and running plus a few tips and tricks. 
 
 {% endcapture %}
 
@@ -78,7 +81,7 @@ The cost of services depends on a variety of things, including; your entity stru
 
 {% capture accordion_content8 %}
 
-Call us on 09 392 2263 or email us on office@northlandca.co.nz. We can discuss what you’re doing and help you make an informed decision.
+Call us on 09 407 5252 or email us on office@northlandca.co.nz .  We can discuss what you’re doing and help you make an informed decision. 
 
 
 {% endcapture %}
