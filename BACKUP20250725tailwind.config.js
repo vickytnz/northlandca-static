@@ -18,21 +18,9 @@ module.exports = {
           900: "#04293A",
         },
         gray: {
-          200: '#cce0ea' // overriding grey with yellow #f4e0c5
+          200: '#cce0ea' //overriding grey with yellow #f4e0c5
         }
       },
-      typography: ({ theme }) => ({
-        dark: {
-          css: {
-            h1: { color: theme('colors.white') },
-            h2: { color: theme('colors.white') },
-            h3: { color: theme('colors.white') },
-            h4: { color: theme('colors.white') },
-            h5: { color: theme('colors.white') },
-            h6: { color: theme('colors.white') },
-          },
-        },
-      }),
     },
   },
   plugins: [
