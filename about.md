@@ -61,13 +61,13 @@ Bio coming soon.......
 
 ---
 
-### Jeff Childs – Client Manager
+### New team member – Coming soon
 
-![Jeff Childs](/assets/images/team/Jeff.jpg)
+![New Team Member](/assets/images/team/Jeff.jpg)
 
-Jeff is a seasoned practitioner in taxation and financial restructuring, with a particular focus on property transactions, asset distribution, and insolvency solutions. His extensive experience includes leading IPOs in both New Zealand and Australia and navigating complex restructuring cases.
+We’re currently recruiting for our next team member in our Kerikeri office – someone with solid public practice experience who enjoys working with people just as much as numbers. 
 
-Jeff finds immense satisfaction in achieving great outcomes for clients, especially when helping them through financial challenges. Outside of work, he enjoys gardening, walking, cooking, and indulging in fine wine and craft beer. A keen croquet player, Jeff also has a fun backstory—he once worked as a bulldozer driver before returning to university to pursue his passion for accounting. He values the variety and autonomy of his work and the supportive, skilled team he’s part of.
+If this is you, please send your resume to office@northlandca.co.nz.
 
 ---
 
