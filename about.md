@@ -54,13 +54,10 @@ Outside of work, Melissa enjoys growing organic food on her lifestyle block, spe
 
 ---
 
-### Wendy Ballantyne – Client Manager
+### Tania Antokhi – Trainee Accountant
+![Tania Antokhi](/assets/images/team/Wendy.jpg)
 
-![Wendy Ballantyne](/assets/images/team/Wendy.jpg)
-
-Wendy thrives as an accounting all-rounder, enjoying the variety her role brings and relishing the opportunity to deepen her knowledge across different areas of the profession. Currently pursuing a business degree, Wendy is dedicated to continuous learning and growth.
-
-In her downtime, Wendy loves fishing, boating, beach days, and staying active at F45. Spending time with her whānau is a cornerstone of her life. A lover of positive team culture, Wendy appreciates the supportive and collaborative environment of the office. Fun fact: her first concert was U2 at Western Springs, a memory she still treasures.
+Bio coming soon.......
 
 ---
 
