@@ -91,14 +91,8 @@ Her favourite part of the job is meeting new people and contributing to the team
 
 ---
 
-### Natalie Snowdon – Consultant / Captain Emeritus
 
-![Natalie Snowdon](/assets/images/team/Natalie.jpg)
 
-Natalie brings a wealth of real-world experience, having owned several small businesses outside of accounting. This hands-on background provides a deep understanding of the challenges and triumphs small-business owners face. She excels at breaking down complex accounting and taxation concepts into terms non-accountants can easily understand.
 
-Natalie enjoys helping others achieve success on their own terms and values the strong, lasting relationships built over nearly 15 years.
 
-In her free time, Natalie and her family embrace all that Northland has to offer, enjoying camping adventures and plenty of fun on, in, and under the water. She appreciates opportunities to collaborate in environments that prioritise care and strong relationships.
 
-Fun fact: Natalie's first job was as a contestant coordinator for the TV dating show *Blind Date*—a role that earned her the award for “consistent sampling of the merchandise”!
