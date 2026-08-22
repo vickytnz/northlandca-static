@@ -54,8 +54,17 @@ Outside of work, Melissa enjoys growing organic food on her lifestyle block, spe
 
 ---
 
-### Tania Antokhi – Trainee Accountant
-![Tania Antokhi](/assets/images/team/Wendy.jpg)
+### Trish Madison – Client Manager
+
+
+Bio coming soon.......
+
+
+---
+
+
+### Nicole Kingi – Client Manager
+
 
 Bio coming soon.......
 
