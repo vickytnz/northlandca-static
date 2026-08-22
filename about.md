@@ -4,7 +4,7 @@ title: About
 director: false
 ---
 
-Northland Chartered Accountants is a Kerikeri and Whangarei based firm catering to businesses in the Northland area. It also powers the business advisory service Lighthouse Advisory.
+Northland Chartered Accountants is a Kerikeri and Whangarei based firm catering to businesses in the Northland area. It also powers the business advisory service Lighthouse Advisory. 
 
 With our wide range of accounting experience and knowledge we're ready and able to support you with all your business and accounting needs.
 
