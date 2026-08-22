@@ -57,6 +57,9 @@ Outside of work, Melissa enjoys growing organic food on her lifestyle block, spe
 ### Trish Madison – Client Manager
 
 
+![Trish Madison](/assets/images/team/Jeff.jpg)
+
+
 Bio coming soon.......
 
 
@@ -64,6 +67,9 @@ Bio coming soon.......
 
 
 ### Nicole Kingi – Client Manager
+
+
+![Nicole Kingi](/assets/images/team/Jeff.jpg)
 
 
 Bio coming soon.......
