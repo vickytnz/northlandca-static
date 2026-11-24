@@ -84,16 +84,6 @@ Outside of work, Nicole enjoys spending quality time with her family and sewing,
 
 ---
 
-### New team member – Coming soon
-
-![New Team Member](/assets/images/team/Jeff.jpg)
-
-We’re currently recruiting for our next team member in our Kerikeri office – someone with solid public practice experience who enjoys working with people just as much as numbers. 
-
-If this is you, please send your resume to office@northlandca.co.nz.
-
----
-
 ### Shelley Tylden – Client Manager
 
 ![Shelley Tylden](/assets/images/team/Shelley%20Tylden%20%E2%80%93%20Client%20Manager.jpg)
