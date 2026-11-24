@@ -60,7 +60,11 @@ Outside of work, Melissa enjoys growing organic food on her lifestyle block, spe
 ![Trish Madison](/assets/images/team/Jeff.jpg)
 
 
-Bio coming soon.......
+Trish brings a broad range of accounting experience to the team, specialising in financial statements, income tax returns, GST compliance and general business accounting. She works with small businesses, farmers, trusts and not-for-profit organisations, particularly enjoying complex accounting and tax matters that require investigation and practical problem-solving.
+
+Trish takes pride in making complicated financial matters easier for clients to understand. She enjoys building lasting client relationships and helping business owners feel confident about their financial affairs. She values being part of a supportive team that shares knowledge and works together to achieve the best outcomes for clients.
+
+Outside of work, Trish enjoys painting, cycling, spending time with her dog and travelling to new places. She also has an adventurous streak, having previously flown gliders from Kaikohe Airport.
 
 
 ---
@@ -72,7 +76,11 @@ Bio coming soon.......
 ![Nicole Kingi](/assets/images/team/Jeff.jpg)
 
 
-Bio coming soon.......
+Nicole specialises in preparing financial statements, GST and income tax returns, reconciliations, and supporting clients with their day-to-day accounting and compliance requirements. She enjoys investigating accounting issues, finding practical solutions and providing personalised support to her clients.
+
+A proud professional achievement for Nicole is studying towards a Bachelor of Business degree while balancing full-time work and raising a family.
+
+Outside of work, Nicole enjoys spending quality time with her family and sewing, particularly upcycling old items into unique designs. She values the knowledge and support of her experienced colleagues and the team's commitment to professional development.
 
 ---
 
